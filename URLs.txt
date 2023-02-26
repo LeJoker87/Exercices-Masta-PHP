@@ -1,0 +1,7 @@
+http://www.google.fr/
+http://www.slashdot.org
+http://www.pagesjaunes.fr/
+http://www.faqs.org/docs/
+http://www.php.net
+http://www.apache.org
+http://maps.google.fr/maps
